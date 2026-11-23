@@ -1,0 +1,6 @@
+numpy
+torch
+matplotlib
+gymnasium[classic-control]
+ipykernel
+IPython
